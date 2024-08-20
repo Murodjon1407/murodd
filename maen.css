@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.header{
+    padding-top: 30px;
+}
+.items{
+    color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 32px;
+font-weight: 700;
+line-height: 39px;
+letter-spacing: 0%;
+text-align: left;
+
+
+}
+.title{
+
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-align: center;
+}
+.bola{
+    display: flex;
+    width: 558px;
+    height: 452px;
+    background-color: red;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77px;
+letter-spacing: 0%;
+text-align: left;
+}
+.ota{
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    padding-top: 30px;
+}
+.bot{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}  
+.qizil{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: left;
+}
